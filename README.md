@@ -1,2 +1,2 @@
-# Widgets
+# Lab
 Experimental desktop applications
