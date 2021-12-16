@@ -1,2 +1,2 @@
 # Lab
-Experimental desktop applications
+Experiments and challenges.
